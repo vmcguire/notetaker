@@ -6,34 +6,9 @@
       "text": "Test text0"
     },
     {
-      "id": "1",
-      "title": "Test Title1",
-      "text": "Test text1"
-    },
-    {
-      "id": "2",
-      "title": "Test Title2",
-      "text": "Test text2"
-    },
-    {
-      "title": "Test Title3",
-      "text": "Test text3",
-      "id": "3"
-    },
-    {
-      "title": "Test Title4",
-      "text": "Test text4",
-      "id": "4"
-    },
-    {
-      "title": "Test Title5",
-      "text": "Test text5",
-      "id": "5"
-    },
-    {
-      "title": "Test Title 6",
-      "text": "Test Text 6",
-      "id": "6"
+      "title": "Hello1",
+      "text": "Hello 1",
+      "id": "1"
     }
   ]
 }
